@@ -15,7 +15,7 @@ const colin = {
   location : "San Jose, CA  ·  17",
   building : "since 2024",
   services : ["landing pages", "full sites", "restaurant & business", "custom design"],
-  contact  : ["cometsecure.top", "408 507 2282"],
+  contact  : ["colinmatasek.com", "408 507 2282"],
 }
 ```
 
@@ -92,7 +92,7 @@ want a website?  i build them.
 ────────────────────────────────────────
 text   →  408 507 2282
 email  →  23colinmata@gmail.com
-web    →  cometsecure.top
+web    →  colinmatasek.com
 ```
 
 <br/>
